@@ -157,4 +157,5 @@
 
 .Donate span:hover{
     color: #fa5561;
+    cursor: pointer;
 }
